@@ -1,0 +1,80 @@
+		body {
+			background-image: url();
+			background-color: #000000;
+			margin-left: 2em;
+		}
+		a:link {
+			color: #13aefe;	
+			text-decoration: none;
+		}
+		a:visited {
+			color: #13aefe; 
+			text-decoration: none;
+		}
+		a:hover {
+			color: #166df8;
+			text-decoration: none;
+		}
+
+		p {
+			color: #b5cdf2;
+			font:  14px verdana, sans-serif;
+		}
+		ul.navigation_menu {
+			list-style-type: none;
+			color: #b5cdf2; 
+			font: bold 14px verdana;
+		}	
+		#payload_text {
+
+		  padding: 2em;
+		  color: #b5cdf2;
+		  background-color: #000000;
+		  line-height: 2em;
+  		}
+  		#payload_text h1 {
+		  font-size: 2em;
+		  color: #166df8;
+  		}
+  		#payload_text h2 {
+  			font-size: 1.2em;
+  			color: #166df8;
+  		}
+		table.main_view {
+			border-collapse: separate;
+			border-spacing: 0px;
+			border: none;
+		}
+		table.frontpage_news_picture {
+			border-collapse: separate;
+			border-spacing: 0px;
+			border: none;
+			width: 800px;
+		}
+		table.content {
+			border-collapse: separate;
+			border-spacing: 10px;
+			width: 975px;
+			text-align: left;
+			font: 14px verdana;
+			color: #b5cdf2;
+			bgcolor: #000000;
+			border: none;
+		}
+		table.show_results {
+			border-collapse: separate;
+			font: 12px verdana;
+			color: #b5cdf2;
+		}
+		table.kitten_list {
+			border-collapse: separate;
+			font: 12px verdana;
+			color: #b5cdf2;
+		}
+		table.weight_list {
+			border-collapse: separate;
+			font: 12px verdana;
+			color: #b5cdf2;
+		}
+		
+		
