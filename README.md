@@ -4,6 +4,8 @@ These are the web page files of Karvanopan cattery. Not maintained anymore.
 
 ## Description
 
+The files should be self-explanative.
+
 
 
 ## Structure
